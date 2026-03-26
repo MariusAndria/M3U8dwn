@@ -1,0 +1,5 @@
+php -S localhost:8000
+
+http://localhost:8000
+
+https://streaming.sehatra.com/r3/judgment-of-time.m3u8
